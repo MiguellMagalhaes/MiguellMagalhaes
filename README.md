@@ -1,6 +1,6 @@
 <!--
   README.md pronto para colar no repositório MiguellMagalhaes/MiguellMagalhaes
-  Temas usados:
+  Temas:
     - GitHub Stats: codeSTACKr
     - Top Langs: vision-friendly-dark
 -->
@@ -13,16 +13,15 @@
     <strong>🎯 Interessado em tecnologia · 🌱 Estudante de Engenharia Informática · 🤝 Colaborações: ISPGAYA</strong>
   </p>
 
-  <!-- Badges -->
+  <!-- Badges (visitor badge moved to top with the others) -->
   <p>
     <a href="https://github.com/MiguellMagalhaes"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=MiguellMagalhaes" /></a>
     <a href="https://github.com/MiguellMagalhaes?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/MiguellMagalhaes?label=Follow&style=social" /></a>
     <a href="https://github.com/MiguellMagalhaes"><img alt="Last commit" src="https://img.shields.io/github/last-commit/MiguellMagalhaes/MiguellMagalhaes" /></a>
+    <a href="https://visitor-badge.laobi.icu/badge?page_id=MiguellMagalhaes.MiguellMagalhaes"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=MiguellMagalhaes.MiguellMagalhaes" /></a>
     <a href="mailto:miguel.softeng@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-miguel.softeng@gmail.com-blue?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://www.miguelangelodiasmagalhaes.online/"><img alt="Website" src="https://img.shields.io/badge/Website-miguelangelodiasmagalhaes.online-0b6efd?style=flat&logo=google-chrome&logoColor=white" /></a>
   </p>
-
-
 
 </div>
 
@@ -44,7 +43,7 @@
   <img alt="Miguel's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MiguellMagalhaes&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr" />
 </p>
 
-<!-- Side-by-side: Top langs + Contribution graph -->
+<!-- Side-by-side: Top langs + (no contribution graph as requested) -->
 <table width="100%">
   <tr>
     <td width="48%" valign="top">
@@ -54,53 +53,35 @@
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <!-- Contribution Graph 
-      <h3>📈 Contribution Graph</h3>
-      <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=MiguellMagalhaes&theme=react-dark&area=true" />
-    -->
+      <!-- Achievements area -->
+      <h3>🏆 Achievements & Activity</h3>
+      <p>
+        <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MiguellMagalhaes&margin-w=10&row=1&column=7" /></a>
+      </p>
+      <p>
+        <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MiguellMagalhaes&theme=vision-friendly-dark&date_format=%5BY%20-%20m%20-%20d%5D" /></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏆 Achievements & Activity
-
-<p align="center">
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=MiguellMagalhaes&margin-w=10&row=1&column=7" /></a>
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats"><img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MiguellMagalhaes&theme=vision-friendly-dark&date_format=%5BY%20-%20m%20-%20d%5D" /></a>
-</p>
-
----
-
 ## 🔭 Projetos em destaque
-> Adiciona links diretos para os teus repositórios aqui — exemplos:
+- [Computação Móvel](https://github.com/MiguellMagalhaes/Computacao_Movel) — Projeto sobre Computação Móvel (descrição curta).
+- [Clash_Of_Eco](https://github.com/MiguellMagalhaes/Clash_Of_Eco) — Jogo/projeto (currently **private**, ficará público em breve).
 
-- [Projeto 1 — Nome do Projeto](https://github.com/MiguellMagalhaes/REPO-1) — descrição curta.
-- [Projeto 2 — Nome do Projeto](https://github.com/MiguellMagalhaes/REPO-2) — descrição curta.
-- [Portfolio / Página pessoal](https://www.miguelangelodiasmagalhaes.online/) — currículo & contactos.
-
-*(Substitui REPO-1 / REPO-2 pelos teus repositórios reais — podes adicionar imagens/ gifs aqui se quiseres).*
+- 🌐 Portfolio / Página pessoal: https://www.miguelangelodiasmagalhaes.online/
 
 ---
 
 ## 🔧 Widgets extras / opcionais
-> Descomenta ou remove o que não quiseres.
+> Descomenta as linhas se quiseres ativar os widgets opcionais (WakaTime, etc.)
 
-<!-- WakaTime (mostra tempo codado, só se tiveres WakaTime configurado) -->
+<!-- WakaTime (se tiveres WakaTime configurado) -->
 <!--
 ![WakaTime](https://github-readme-waka.vercel.app/api/v1/users/MiguellMagalhaes?&layout=compact)
 -->
-
-<!-- Visitor badge alternativa -->
-<p align="center">
-  <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=MiguellMagalhaes.MiguellMagalhaes" />
-</p>
 
 ---
 
@@ -108,17 +89,3 @@
 - ✉️ Email: miguel.softeng@gmail.com  
 - 🌐 Website / LinkedIn: https://www.miguelangelodiasmagalhaes.online/  
 - 🔗 GitHub: https://github.com/MiguellMagalhaes
-
----
-
-### ⚙️ Dicas finais / fixes
-- Se algum widget **não carregar**, confirma o `username` exatamente como está no GitHub (maiúsculas/minúsculas) — aqui está `MiguellMagalhaes`.  
-- Para incluir *private contributions* ou *all commits* já ativei `count_private=true&include_all_commits=true` nas stats (apenas mostrará o que é permitido pelas tuas definições de privacidade).  
-- Queres outro tema? Muda o parâmetro `theme=` nas URLs das imagens (ex.: `theme=tokyonight`, `dracula`, etc.).  
-- Para adicionar GIFs, banners ou imagens de projetos, adiciona imagens locais no repositório e referencia-as com `![alt](./path/image.png)`.
-
----
-
-<div align="center">
-  <sub>Feito com ❤️ · Mantém o README simples, atualiza os links dos projetos e experimenta diferentes temas até ficar com o visual que mais gostas.</sub>
-</div>
