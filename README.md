@@ -66,13 +66,13 @@
 - 🌐 Portfolio / Página pessoal: [miguelangelodiasmagalhaes.online](https://www.miguelangelodiasmagalhaes.online/)
 
 ---
-
+<!--
 ## 🔧 Widgets opcionais
 > Descomenta se quiseres ativar o WakaTime (tempo de programação, se tiveres conta configurada).
 
 
 ![WakaTime](https://github-readme-waka.vercel.app/api/v1/users/MiguellMagalhaes?&layout=compact)
-
+-->
 
 ---
 
