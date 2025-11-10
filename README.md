@@ -22,9 +22,7 @@
     <a href="https://www.miguelangelodiasmagalhaes.online/"><img alt="Website" src="https://img.shields.io/badge/Website-miguelangelodiasmagalhaes.online-0b6efd?style=flat&logo=google-chrome&logoColor=white" /></a>
   </p>
 
-  <p>
-    <em>trabalhosdomike@gmail.com · <a href="https://www.miguelangelodiasmagalhaes.online/">Website / LinkedIn</a></em>
-  </p>
+
 
 </div>
 
@@ -56,9 +54,10 @@
     </td>
     <td width="4%"></td>
     <td width="48%" valign="top">
-      <!-- Contribution Graph -->
+      <!-- Contribution Graph 
       <h3>📈 Contribution Graph</h3>
       <img alt="Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=MiguellMagalhaes&theme=react-dark&area=true" />
+    -->
     </td>
   </tr>
 </table>
