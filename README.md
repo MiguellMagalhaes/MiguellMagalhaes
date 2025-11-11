@@ -61,7 +61,7 @@
 ---
 
 ## 🔭 Projetos em destaque
-- [Computação Móvel](https://github.com/MiguellMagalhaes/Computacao_Movel) — Projeto sobre Computação Móvel (descrição curta).  
+- [Computação Móvel](https://github.com/MiguellMagalhaes/Computacao_Movel) — Projeto sobre Computação Móvel.  
 - [Clash_Of_Eco](https://github.com/MiguellMagalhaes/Clash_Of_Eco) — Jogo/projeto *(currently private, ficará público em breve)*.  
 - 🌐 Portfolio / Página pessoal: [miguelangelodiasmagalhaes.online](https://www.miguelangelodiasmagalhaes.online/)
 
