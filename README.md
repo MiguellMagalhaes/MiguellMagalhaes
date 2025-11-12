@@ -52,53 +52,81 @@
 
 <div align="center">
 
+<!-- Programming Languages -->
 ### 🧠 Programming Languages
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" />
-<img src="https://skillicons.dev/icons?i=php" alt="PHP" width="65" />
-<img src="https://skillicons.dev/icons?i=c,cs" alt="C & C#" width="65" />
-<img src="https://skillicons.dev/icons?i=go,ruby,kotlin,swift" alt="Other Languages" width="65" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" height="56" style="margin:12px 18px;" />
+</p>
 
----
+<hr />
 
+<!-- Web Technologies -->
 ### 🌐 Web Technologies & Frameworks
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" />
-<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" />
-<img src="https://skillicons.dev/icons?i=vue,next,bootstrap,tailwind,nodejs,express" alt="Web Stack" width="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="56" style="margin:12px 18px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="56" style="margin:12px 18px;" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="56" style="margin:12px 18px;" />
+</p>
 
----
+<hr />
 
+<!-- Databases & Platforms -->
 ### 🗄️ Databases & Platforms
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" />
-<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="65" />
-<img src="https://skillicons.dev/icons?i=sqlite,firebase,redis" alt="Databases" width="65" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" />
-<img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="56" style="margin:12px 18px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite,firebase,redis" alt="SQLite / Firebase / Redis" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="56" style="margin:12px 18px;" />
+</p>
 
----
+<hr />
 
+<!-- Dev Tools & Version Control -->
 ### ⚙️ Development Tools & Version Control
-<img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" />
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" />
-<img src="https://skillicons.dev/icons?i=pycharm,idea,postman,bash,powershell" alt="Dev Tools" width="65" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" height="56" style="margin:12px 18px;" />
+  <img src="https://skillicons.dev/icons?i=postman,bash" alt="Postman / Bash" height="56" style="margin:12px 18px;" />
+</p>
 
----
+<hr />
 
+<!-- Hardware & Networking -->
 ### 🔌 Hardware & Networking
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Raspberry Pi & Arduino" width="65" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" />
-<img src="https://skillicons.dev/icons?i=vmware" alt="VMware" width="65" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="56" style="margin:12px 18px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="56" style="margin:12px 18px;" />
+  <img src="https://skillicons.dev/icons?i=vmware" alt="VMware" height="56" style="margin:12px 18px;" />
+</p>
 
 </div>
+
 
 ---
 
