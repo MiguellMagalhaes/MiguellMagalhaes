@@ -3,7 +3,7 @@
   <h1>👋 Hi, I’m Miguel Magalhães</h1>
 
   <p>
-    <strong>🎯 Interessado em tecnologia · 🌱 Estudante de Engenharia Informática · 🤝 Colaborações: ISPGAYA</strong>
+    <strong>🎯 Interested in technology · 🌱 Student of Computer Engineering · 🤝 Collaborations: ISPGAYA</strong>
   </p>
 
   <p>
@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 - 👋 Hi, I’m **Miguel Magalhães**  
 - 👀 I’m interested in **technology & cybersecurity**  
 - 🌱 I’m currently studying **Informatic Engineering @ ISPGAYA**  
@@ -124,21 +124,19 @@
 
 </div>
 
-
-
 ---
 
-## 🔭 Projetos em destaque
-- [📱 Computação Móvel](https://github.com/MiguellMagalhaes/Computacao_Movel) — Projeto sobre aplicações móveis.  
-- [🌿 Clash_Of_Eco](https://github.com/MiguellMagalhaes/Clash_Of_Eco) — Jogo ecológico *(ficará público em breve)*.  
-- 🌐 Portfolio pessoal: [miguelangelodiasmagalhaes.online](https://www.miguelangelodiasmagalhaes.online/)
+## 🔭 Featured projects
+- [📱 Computação Móvel](https://github.com/MiguellMagalhaes/Computacao_Movel) — Project about mobile applications.  
+- [🌿 Clash_Of_Eco](https://github.com/MiguellMagalhaes/Clash_Of_Eco) — Eco game *(will be made public soon)*.  
+- 🌐 Personal portfolio: [miguelangelodiasmagalhaes.online](https://www.miguelangelodiasmagalhaes.online/)
 
 ---
 
 ## 📫 Contact / Social
 - ✉️ **miguel.softeng@gmail.com**  
 - 🌐 **[miguelangelodiasmagalhaes.online](https://www.miguelangelodiasmagalhaes.online/)**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-magalhaes)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-magalh%C3%A3es-059932283/)  
 - 🔗 [GitHub](https://github.com/MiguellMagalhaes)
 
 ---
