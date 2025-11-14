@@ -140,3 +140,9 @@
 - 🔗 [GitHub](https://github.com/MiguellMagalhaes)
 
 ---
+
+
+<div align="center"> <p>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</p> <p>⭐ Feel free to star my repositories if you find them interesting!</p> </div>
+
+
+---
